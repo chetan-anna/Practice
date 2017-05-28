@@ -13,7 +13,7 @@ public class AdvanceCal2 implements Calc {
 		obj1.sub();
 	}
 	public void calCos(){
-		
+		// comment
 		System.out.println("Iam in advancecal cos method");
 	}
 public void calSin(){
