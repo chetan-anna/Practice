@@ -28,7 +28,6 @@ public void calSin(){
 	}
 	public void sub() {
 	
-System.out.println("I am in sub method");
 	}
 
 }
