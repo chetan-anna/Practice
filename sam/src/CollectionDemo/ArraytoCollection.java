@@ -17,6 +17,7 @@ for (String string : al) {
 LinkedList<String>ll=new LinkedList<>(Arrays.asList(s1));
 for (String string : ll) {
 	System.out.println(string);
+// conflict code on master branch
 }
 	}
 
